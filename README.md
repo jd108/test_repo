@@ -2,6 +2,4 @@
 This is a simple readme file 
 ##Heading 2
 
-blah blah 
-
-added branch
+this is bound to cause trouble 
